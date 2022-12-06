@@ -15,6 +15,9 @@
 - 📫 How to reach me **paulabarrossm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <img src="https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/a6470d98-701d-4f7a-bc11-5c7407d83c13.png" alt="maulapacedo"/>
+[Meu perfil do LinkedIn](https://www.linkedin.com/in/paula-macedo-b487111b4/) </p>
+
 <p align="left">
 </p>
 
