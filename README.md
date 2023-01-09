@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/100442196/205964819-a9fd2f66-8545-4e75-80e0-83435fb7294e.png)
+
 
 <img align="right" alt="Coding" width="400" src="https://www.dasca.org/content/Images/icon/coding.gif">
 
