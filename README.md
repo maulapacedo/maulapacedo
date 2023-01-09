@@ -24,7 +24,7 @@
   <img src="[https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/paula-macedo-b487111b4/)" /></a>
 
   <a href="#" alt="WhatsApp">
-  <img src="+55 (61)99643-2619"/></a>
+  <img src=""/></a>
 
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
