@@ -16,21 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin](https://www.linkedin.com/in/paula-macedo-b487111b4/)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulapacedo&show_icons=true&locale=en&layout=compact" alt="maulapacedo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maulapacedo&show_icons=true&locale=en" alt="maulapacedo" /></p>
+👔 [LinkedIn](https://www.linkedin.com/in/paula-macedo-b487111b4/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulapacedo&" alt="maulapacedo" /></p>
