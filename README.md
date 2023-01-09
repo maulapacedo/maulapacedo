@@ -1,5 +1,11 @@
 
+<h1 align="center">Hi , I'm Paula Macedo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sofia+Sans+Condensed&size=25&pause=1000&background=FFFFFF00&center=true&width=435&lines=A+passionate+economist+%26+data+analyst+from+Brazil+" alt="Typing SVG" /></a>
+</p>
 
+
+  
 <img align="right" alt="Coding" width="400" src="https://www.dasca.org/content/Images/icon/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulapacedo&label=Profile%20views&color=0e75b6&style=flat" alt="maulapacedo" /> </p>
