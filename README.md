@@ -20,7 +20,7 @@
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/paula-macedo-b487111b4/" alt="Linkedin">
   <img src="https://www.linkedin.com/in/paula-macedo-b487111b4/" /></a>
 
   <a href="#" alt="WhatsApp">
