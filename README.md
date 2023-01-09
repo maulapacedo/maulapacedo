@@ -23,13 +23,11 @@
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
-#### Rede Sociais!
-
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][[linkedin](https://www.linkedin.com/in/paula-macedo-b487111b4/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulapacedo&show_icons=true&locale=en&layout=compact" alt="maulapacedo" /></p>
 
